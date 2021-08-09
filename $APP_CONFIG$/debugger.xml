@@ -1,0 +1,22 @@
+<application>
+  <component name="XDebuggerSettings">
+    <data-views>
+      <sort-values>true</sort-values>
+    </data-views>
+    <general />
+    <debuggers>
+      <debugger id="javascript">
+        <configuration>
+          <custom-object-presentation />
+        </configuration>
+      </debugger>
+      <debugger id="python">
+        <configuration>
+          <option name="simplifiedView" value="false" />
+          <option name="valuesPolicy" value="SYNC" />
+          <option name="watchReturnValues" value="true" />
+        </configuration>
+      </debugger>
+    </debuggers>
+  </component>
+</application>
